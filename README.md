@@ -1,5 +1,7 @@
-# component-creator
+# 有赞云SDK
+
+## 安装
 
 ```
-composer create-project hyperf/component-creator
+composer require kydev/youzan-sdk
 ```

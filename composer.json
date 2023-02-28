@@ -4,7 +4,9 @@
     "license": "MIT",
     "keywords": [
         "php",
-        "hyperf"
+        "hyperf",
+        "YouZan Cloud",
+        "有赞云"
     ],
     "description": "",
     "autoload": {
